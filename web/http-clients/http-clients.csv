@@ -1,2 +1,2 @@
 src_url,vcs,name,web_url,description
-https://github.com/curl/curl,git,curl/curl,,
+https://github.com/curl/curl,git,curl/curl,https://curl.haxx.se,A command line tool and library for transferring data with URL syntax, supporting HTTP, HTTPS, FTP, FTPS, GOPHER, TFTP, SCP, SFTP, SMB, TELNET, DICT, LDAP, LDAPS, FILE, IMAP, SMTP, POP3, RTSP and RTMP. libcurl offers a myriad of powerful features 
