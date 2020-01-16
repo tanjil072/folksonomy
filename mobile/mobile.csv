@@ -1,22 +1,22 @@
 src_url,vcs,name,web_url,description
-https://github.com/Alamofire/Alamofire,git,Alamofire/Alamofire,,
-https://github.com/bumptech/glide,git,bumptech/glide,,
-https://github.com/airbnb/lottie-android,git,airbnb/lottie-android,,
-https://github.com/Blankj/AndroidUtilCode,git,Blankj/AndroidUtilCode,,
-https://github.com/zxing/zxing,git,zxing/zxing,,
-https://github.com/nolimits4web/swiper,git,nolimits4web/swiper,,
-https://github.com/HeroTransitions/Hero,git,HeroTransitions/Hero,,
-https://github.com/framework7io/framework7,git,framework7io/framework7,,
-https://github.com/android/plaid,git,android/plaid,,
-https://github.com/hackiftekhar/IQKeyboardManager,git,hackiftekhar/IQKeyboardManager,,
-https://github.com/CoderMJLee/MJRefresh,git,CoderMJLee/MJRefresh,,
-https://github.com/Tencent/QMUI_Android,git,Tencent/QMUI_Android,,
-https://github.com/android/ndk-samples,git,android/ndk-samples,,
-https://github.com/flutterchina/flutter-in-action,git,flutterchina/flutter-in-action,,
-https://github.com/firebase/quickstart-android,git,firebase/quickstart-android,,
-https://github.com/nisrulz/flutter-examples,git,nisrulz/flutter-examples,,
-https://github.com/xamarin/xamarin-forms-samples,git,xamarin/xamarin-forms-samples,,
-https://github.com/owncloud/android,git,ownCloud,https://owncloud.org/,"With over 50 million users worldwide, ownCloud is the market-leading open source software for cloud-based collaboration platforms. As an alternative to Dropbox, OneDrive and Google Drive, ownCloud offers real data security and privacy for you and your data."
+https://github.com/Alamofire/Alamofire,git,Alamofire,,"Elegant HTTP Networking in Swift"
+https://github.com/bumptech/glide,git,glide,https://bumptech.github.io/glide,"An image loading and caching library for Android focused on smooth scrolling "
+https://github.com/airbnb/lottie-android,git,lottie-android,http://airbnb.io/lottie,"Render After Effects animations natively on Android and iOS, Web, and React Native"
+https://github.com/Blankj/AndroidUtilCode,git,AndroidUtilCode,https://blankj.com/2016/07/31/android-utils-code,"🔥 Android developers should collect the following utils(updating)."
+https://github.com/zxing/zxing,git,zxing,,"ZXing ("Zebra Crossing") barcode scanning library for Java, Android"
+https://github.com/nolimits4web/swiper,git,swiper,https://swiperjs.com,"Most modern mobile touch slider with hardware accelerated transitions"
+https://github.com/HeroTransitions/Hero,git,Hero,,"Elegant transition library for iOS & tvOS"
+https://github.com/framework7io/framework7,git,framework7,http://framework7.io,"Full featured HTML framework for building iOS & Android apps"
+https://github.com/android/plaid,git,plaid,,"An Android app which provides design news & inspiration as well as being an example of implementing material design."
+https://github.com/hackiftekhar/IQKeyboardManager,git,IQKeyboardManager,,"Codeless drop-in universal library allows to prevent issues of keyboard sliding up and cover UITextField/UITextView. Neither need to write any code nor any setup required and much more."
+https://github.com/CoderMJLee/MJRefresh,git,MJRefresh,,"An easy way to use pull-to-refresh."
+https://github.com/Tencent/QMUI_Android,git,QMUI_Android,http://qmuiteam.com/android,"提高 Android UI 开发效率的 UI 库"
+https://github.com/android/ndk-samples,git,ndk-samples,http://developer.android.com/ndk,"Android NDK samples with Android Studio"
+https://github.com/flutterchina/flutter-in-action,git,Flutter-in-action,https://book.flutterchina.club,"《Flutter实战》电子书"
+https://github.com/firebase/quickstart-android,git,Quickstart-android,https://firebase.google.com,"Firebase Quickstart Samples for Android"
+https://github.com/nisrulz/flutter-examples,git,Flutter Examples,,"[Examples] Simple basic isolated apps, for budding flutter devs."
+https://github.com/xamarin/xamarin-forms-samples,git,Xamarin Forms Samples,https://docs.microsoft.com/xamarin/xamarin-forms,"Sample apps built using the Xamarin.Forms framework"
+https://github.com/owncloud/android,git,Android,,"☎️ The ownCloud Android App"
 https://github.com/MvvmCross/MvvmCross,git,MvvmCross,http://mvvmcross.com/,"The .NET MVVM framework for cross-platform solutions, including Xamarin.iOS, Xamarin.Android, Windows and Mac."
-https://github.com/ioscreator/ioscreator,git,iOS Creator tutorials,https://www.ioscreator.com/,Source Code of iOS tutorials at ioscreator.com
-https://github.com/ionic-team/ionic-conference-app,git,Ionic Conference App,,A conference app built with Ionic to demonstrate Ionic
+https://github.com/ioscreator/ioscreator,git,ios Creator,https://ioscreator.com/,"Tutorials from ioscreator.com"
+https://github.com/ionic-team/ionic-conference-app,git,Ionic Conference App,,"A conference app built with Ionic to demonstrate Ionic"
